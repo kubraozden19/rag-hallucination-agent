@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Return Policy",
+    "content": "Customers can return products within 14 days of delivery. Used products are not eligible for return. Refunds are processed within 7 business days after the returned item is inspected."
+  },
+  {
+    "id": 2,
+    "title": "Shipping Policy",
+    "content": "Orders are usually shipped within 2 business days. Domestic shipping typically takes 3 to 5 business days. International shipping may take 7 to 14 business days depending on destination."
+  },
+  {
+    "id": 3,
+    "title": "Warranty Policy",
+    "content": "Electronic products include a 2-year warranty covering manufacturing defects only. Physical damage, liquid damage, and unauthorized repairs are not covered under warranty."
+  },
+  {
+    "id": 4,
+    "title": "Payment Policy",
+    "content": "Customers can pay using credit card, debit card, or bank transfer. Cash on delivery is available only for domestic orders. Orders are confirmed only after successful payment authorization."
+  },
+  {
+    "id": 5,
+    "title": "Cancellation Policy",
+    "content": "Orders can be cancelled before they are shipped. Once an order has been shipped, cancellation is no longer possible. In such cases, customers must use the return process after delivery."
+  },
+  {
+    "id": 6,
+    "title": "Exchange Policy",
+    "content": "Products can be exchanged within 10 days of delivery if they are unused and in original packaging. Exchanges are subject to stock availability. Customized products cannot be exchanged."
+  },
+  {
+    "id": 7,
+    "title": "Refund Policy",
+    "content": "Approved refunds are issued to the original payment method. Refund processing may take 5 to 10 business days depending on the bank or payment provider. Shipping charges are non-refundable unless the return is due to seller error."
+  },
+  {
+    "id": 8,
+    "title": "Membership Policy",
+    "content": "Customers must create an account to track orders and save addresses. Each user is responsible for maintaining the confidentiality of their login credentials. The company may suspend accounts involved in fraudulent activity."
+  },
+  {
+    "id": 9,
+    "title": "Customer Support Policy",
+    "content": "Customer support is available Monday through Friday from 9:00 AM to 6:00 PM. Support requests can be submitted by email or live chat. Phone support is available only for premium members."
+  },
+  {
+    "id": 10,
+    "title": "Delivery Delay Policy",
+    "content": "If a shipment is delayed due to weather conditions, customs procedures, or carrier issues, delivery times may be extended. Customers will be notified by email if a significant delay occurs."
+  },
+  {
+    "id": 11,
+    "title": "International Orders Policy",
+    "content": "International customers are responsible for customs duties, taxes, and import fees in their country. These charges are not included in the product price or shipping fee. Delivery timelines may vary depending on customs clearance."
+  },
+  {
+    "id": 12,
+    "title": "Damaged Product Policy",
+    "content": "If a product arrives damaged, the customer must report the issue within 48 hours of delivery. Photo evidence may be required. Eligible cases may result in replacement, refund, or store credit depending on the situation."
+  },
+  {
+    "id": 13,
+    "title": "Privacy Policy",
+    "content": "Customer personal data is collected only for order processing, delivery, and customer support purposes. Payment card details are not stored on company servers. Users may request deletion of their account data in accordance with applicable regulations."
+  },
+  {
+    "id": 14,
+    "title": "Promotions Policy",
+    "content": "Discount codes must be applied at checkout and cannot be added after payment is completed. Promotional offers may not be combined unless explicitly stated. Some products may be excluded from campaigns."
+  },
+  {
+    "id": 15,
+    "title": "Subscription Policy",
+    "content": "Subscription plans renew automatically at the end of each billing period unless cancelled by the customer. Customers may cancel renewal before the next billing date. Subscription fees already charged are non-refundable except where required by law."
+  },
+  {
+    "id": 16,
+    "title": "Account Security Policy",
+    "content": "Users must choose strong passwords and should not share account access with others. Suspicious login activity may trigger temporary account restriction. Two-factor authentication is recommended when available."
+  },
+  {
+    "id": 17,
+    "title": "Gift Card Policy",
+    "content": "Gift cards can be used only for eligible products sold on the platform. Gift cards are non-refundable and cannot be exchanged for cash. Lost or stolen gift cards may not be replaced."
+  },
+  {
+    "id": 18,
+    "title": "Pre-Order Policy",
+    "content": "Pre-order items are charged at the time of purchase unless otherwise stated. Estimated release and shipping dates are subject to change. Customers will be informed if the launch schedule is significantly delayed."
+  },
+  {
+    "id": 19,
+    "title": "Store Credit Policy",
+    "content": "Store credit may be issued in eligible return or complaint cases. Store credit cannot be transferred to another account and cannot be redeemed for cash. It must be used before its expiration date if one is specified."
+  },
+  {
+    "id": 20,
+    "title": "Complaint Resolution Policy",
+    "content": "Customer complaints are reviewed in the order they are received. The company aims to respond to formal complaints within 5 business days. Complex cases may require additional review time."
+  }
+]
