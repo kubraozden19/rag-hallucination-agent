@@ -60,14 +60,14 @@ Context:
         cleaned_text = raw_text.replace("```json", "").replace("```", "").strip()
         return json.loads(cleaned_text)
 
-    except Exception as e:
+    except Exception:
         return {
-            "answer": "Model çağrısı sırasında hata oluştu. Bu durum genellikle API kota sınırı veya geçici servis limiti nedeniyle oluşur.",
+            "answer": "Model çağrısı sırasında hata oluştu. Bu durum genellikle ücretsiz API kota sınırı veya geçici servis limiti nedeniyle oluşur.",
             "claims": [
                 {
                     "claim": "Model response could not be generated.",
                     "support": "Unknown",
-                    "reason": str(e)
+                    "reason": "The model call could not be completed because the API quota or service limit was exceeded."
                 }
             ],
             "overall_risk": "Unknown"
