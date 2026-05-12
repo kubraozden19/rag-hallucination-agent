@@ -5,8 +5,6 @@ def rerank_documents(question, retrieved_docs, top_n=2):
     This function does not call any external LLM API.
     It re-sorts retrieved candidate chunks according to their retrieval score
     and selects the top_n strongest evidence chunks.
-
-    This is used in the cloud demo version to reduce API usage.
     """
 
     scored_docs = []
